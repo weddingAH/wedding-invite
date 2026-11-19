@@ -786,7 +786,7 @@ animation: none;
 .scratch-card {
 position: relative;
 width: min(330px, 88vw);
-aspect-ratio: 2.6;
+aspect-ratio: 3.2;
 overflow: hidden;
 border: 1px solid var(--gold);
 border-radius: 35px;
