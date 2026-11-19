@@ -785,11 +785,11 @@ animation: none;
 }
 .scratch-card {
 position: relative;
-width: min(430px, 88vw);
+width: min(330px, 88vw);
 aspect-ratio: 2.6;
 overflow: hidden;
 border: 1px solid var(--gold);
-border-radius: 5px;
+border-radius: 35px;
 box-shadow: 0 16px 40px #5b3b5e2b;
 user-select: none;
 touch-action: none;
